@@ -11,5 +11,10 @@
  ## STEP 2:
  ### <b>USER INTERFACE USING SHINY :</b>
  <i>
- <b>Shiny</b> is an open source package R package that provides a powerful web framework for building web applications using R. 
+ 
+ 1.The application created will ask the user to input the 'Date' (of travel) , 'Starting'(origin airport) , 'Destination'(destination        airport).<br>
+ 2.The UI can be published by connecting the Rstudio to Shinyapps.io or Rstudio connect.<br>
+ 3.Here we are using shinyapps.io to publish the application.<br>
+ 4.The link to our application is : https://ads-final-project.shinyapps.io/USER-INTERFACE/ ( modifications are yet to be made).<br>
+ 5.Once the user inputs all the necessary data , the user will get the output of the percentage of delay that has happened in the past on    that day for that particular origin and destination.<br>
  
