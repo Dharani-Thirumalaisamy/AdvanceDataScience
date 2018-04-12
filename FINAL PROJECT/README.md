@@ -13,8 +13,8 @@
  <i>
  
  1.The application created will ask the user to input the 'Date' (of travel) , 'Starting'(origin airport) , 'Destination'(destination        airport).<br>
- 2.The UI can be published by connecting the Rstudio to <b>Shinyapps.io<b> or <b>Rstudio connect<b>.<br>
+ 2.The UI can be published by connecting the Rstudio to <b>Shinyapps.io</b> or <b>Rstudio connect</b>.<br>
  3.Here we are using shinyapps.io to publish the application.<br>
- 4.The link to our application is :https://ads-final-project.shinyapps.io/USER-INTERFACE/ ( modifications are yet to be made).<br>
+ 4.The link to our application is :<b>https://ads-final-project.shinyapps.io/USER-INTERFACE/</b> ( modifications are yet to be made).<br>
  5.Once the user inputs all the necessary data , the user will get the output of the percentage of delay that has happened in the past on    that day for that particular origin and destination.<br>
  
